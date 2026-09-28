@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+*.pyc
+
+# Generated reports (regenerate any time with the tool)
+*_report.xlsx
+*_report.html
